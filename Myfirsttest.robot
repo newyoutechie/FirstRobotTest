@@ -4,7 +4,7 @@ Library    SeleniumLibrary
 
 *** Variables ***
 ${url}       https://www.amazon.in/
-${browser}    edge
+${browser}    chrome
 
 *** Test Cases ***
 
